@@ -1,0 +1,21 @@
+{
+	"params":
+	{
+       "local_server":"True",
+       "local_uri":"mysql://root:@localhost/codingthunder",
+       "prod_uri":"mysql://root:@localhost/codingthunder",
+       "fb_url":"https://facebook.com/thecodingthunder",
+       "tw_url":"https://twitter.com/thecodingthunder",
+       "gh_url":"https://github.com/python-flask-blog",
+       "blog_name": "Coding Thunder",
+       "tag_line": "Heaven for programmers",
+       "gmail-user":"your_id_name@gmail.com",
+       "gmail-password":"ypur_password",
+       "about_text":"Hi,i just have created my first website . I am student of BTech computer engineering 4th year.This blog application is made by using python programming language , flask framework of python , xampp database with phpmyadmin , jinja technique and templates. ",
+       "no_of_posts":2,
+       "login_image":"login.svg",
+       "admin_user":"admin",
+       "admin_password":"admin",
+       "upload_location":"C:\\Python\\Python37\\myproject\\harry_web\\static\\img"
+	}
+}
